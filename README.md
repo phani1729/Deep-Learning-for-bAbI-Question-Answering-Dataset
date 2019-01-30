@@ -1,4 +1,4 @@
-# Deep-Learning-for-bAbI-Question-Answering-Dataset-
+# Deep-Learning-for-bAbI-Question-Answering-Dataset
 Build a Deep Learning memory network for bAbI Question-Answering Dataset 
 
  The main moto of building this model is to increase the reasoning power of the neural network, that’s why our model can also be called as RAM (Reasoning, Attention Memory) model.
